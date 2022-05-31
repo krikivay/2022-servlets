@@ -1,0 +1,36 @@
+.my-form {
+    margin: auto;
+    width: 50%;
+}
+
+.login-button {
+    width: 25%;
+    margin: auto;
+}
+
+.error {
+    margin: auto;
+    color: red;
+}
+
+.avatar {
+    display: inline-block;
+    width: 50%;
+    height: 50%;
+}
+
+.my-profile-inline-info {
+    display: inline-block;
+}
+
+.profile {
+    margin-left: 0 !important;
+}
+
+.profile-content {
+    margin-left: 15px !important;
+}
+
+.container {
+    margin-top: 20px;
+}

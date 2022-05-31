@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>custom tag nav</short-name>
+
+    <tag>
+        <name>NavBar</name>
+        <tag-class>com.univer.servlets.customtag.NavBar</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>

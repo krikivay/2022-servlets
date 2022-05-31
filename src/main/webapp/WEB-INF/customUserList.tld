@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>custom tag list</short-name>
+
+    <tag>
+        <name>UserList</name>
+        <tag-class>com.univer.servlets.customtag.UserList</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
